@@ -20,7 +20,7 @@ These are some things that I've been using recently:
 
 <div>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wedz0ff&layout=compact&langs_count=6&theme=dracula&exclude_repo=ollyxpic,Jekhr-Translator&count_private=false"/> -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wedz0ff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wedz0ff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs"/>
 </div>
 
 ## **Contact:**
