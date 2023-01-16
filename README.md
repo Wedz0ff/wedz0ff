@@ -26,7 +26,7 @@ These are some things that I've been using recently:
 ## **Contact:**
 
 <p align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/lucas-hames-582281245/" alt="Linkedin">
+  <a target="_blank" href="https://www.linkedin.com/in/wedz0ff/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
    <a target="_blank" href="mailto:lrphames@gmail.com" alt="Gmail">
