@@ -1,6 +1,6 @@
 ### Hey there!
 
-I'm Lucas, a developer from Brazil, I've been immersed on computer and programming since myy childhood, my main language is `JavaScript`, although I like `PHP` aswell.
+I'm Lucas, a developer from Brazil, I've been immersed on computer and programming since my childhood, my main language is `JavaScript`, although I like `PHP` aswell.
 
 ## **Languages & Tools:**
 
