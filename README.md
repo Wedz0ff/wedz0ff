@@ -35,5 +35,3 @@ I'm Lucas Hames, a Fullstack Developer from Brazil who's been into coding since 
   </a>
 </div>
 <br>
-
-![Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/wednesdayoff/latest-song?format=shields.io)
